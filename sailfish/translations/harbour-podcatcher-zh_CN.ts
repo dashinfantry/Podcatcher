@@ -19,12 +19,12 @@
     <message>
         <location filename="../qml/pages/AudioPlayer.qml" line="86"/>
         <source>Player</source>
-        <translation type="unfinished"></translation>
+        <translation>播放器</translation>
     </message>
     <message>
         <location filename="../qml/pages/AudioPlayer.qml" line="265"/>
         <source>Chapters</source>
-        <translation type="unfinished"></translation>
+        <translation>集</translation>
     </message>
 </context>
 <context>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../qml/pages/BrowsePodcasts.qml" line="44"/>
         <source>Import podcasts from gPodder</source>
-        <translation>从gPodder 导入播客</translation>
+        <translation>从 gPodder 导入播客</translation>
     </message>
     <message>
         <location filename="../qml/pages/BrowsePodcasts.qml" line="52"/>
@@ -96,47 +96,47 @@
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="12"/>
         <source>Sorting of the Episodes</source>
-        <translation type="unfinished"></translation>
+        <translation>分季</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="20"/>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>分类方式</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="24"/>
         <source>ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="27"/>
         <source>publication date</source>
-        <translation type="unfinished"></translation>
+        <translation>出品日期</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="31"/>
         <source>state</source>
-        <translation type="unfinished"></translation>
+        <translation>国家</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="35"/>
         <source>title</source>
-        <translation type="unfinished"></translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="42"/>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>分类顺序</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="46"/>
         <source>descending</source>
-        <translation type="unfinished"></translation>
+        <translation>升序</translation>
     </message>
     <message>
         <location filename="../qml/pages/EpisodesSortDialog.qml" line="50"/>
         <source>ascending</source>
-        <translation type="unfinished"></translation>
+        <translation><降序/translation>
     </message>
 </context>
 <context>
@@ -243,12 +243,12 @@
     <message>
         <location filename="../qml/pages/PodcastEpisodes.qml" line="72"/>
         <source>Refresh</source>
-        <translation></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="../qml/pages/PodcastEpisodes.qml" line="81"/>
         <source>Sort Episodes</source>
-        <translation type="unfinished"></translation>
+        <translation>分季</translation>
     </message>
     <message>
         <location filename="../qml/pages/PodcastEpisodes.qml" line="97"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="../qml/pages/SearchPodcasts.qml" line="38"/>
         <source>Import podcasts from gPodder</source>
-        <translation>从gPodder 导入播客。</translation>
+        <translation>从 gPodder 导入播客。</translation>
     </message>
     <message>
         <location filename="../qml/pages/SearchPodcasts.qml" line="46"/>
@@ -494,12 +494,12 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="100"/>
         <source>Sync feeds on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时同步订阅</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="101"/>
         <source>Download podcast feeds on startup. This may take some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时下载播客订阅。这可能要花点时间。</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="131"/>
@@ -529,7 +529,7 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="167"/>
         <source>Jolla Mediaplayer</source>
-        <translation>Jolla 媒体</translation>
+        <translation>Jolla 媒体播放器</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="171"/>
@@ -539,7 +539,7 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="175"/>
         <source>Internal Player (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>内部播放器（测试）</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="185"/>
